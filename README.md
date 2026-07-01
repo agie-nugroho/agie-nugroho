@@ -82,18 +82,18 @@ I'm always open to learning new technologies and collaborating on impactful proj
 
 **🌐 &nbsp;Web Development**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs&theme=dark&perline=6" />
 
 <br><br>
 
 **⚙ &nbsp;Programming & Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,mysql,java,cpp,androidstudio&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,mysql&theme=dark&perline=9" />
 
 <br>
 
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=0F2027" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0F2027" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logoColor=white&labelColor=0F2027" />
 
 </div>
 
