@@ -25,8 +25,7 @@
 >
 > I enjoy transforming raw data into meaningful insights through statistics, programming, and visualization. Besides working with data, I also have experience in **Full Stack Web Development** and enjoy building practical applications.
 
-<div align = "center">
-  <table>
+<table>
 <tr>
 <td width="50%" valign="top">
 
@@ -46,8 +45,6 @@
 </td>
 </tr>
 </table>
-</div>
-
 
 I'm always open to learning new technologies and collaborating on impactful projects. 🚀
 
@@ -117,16 +114,16 @@ I'm always open to learning new technologies and collaborating on impactful proj
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=agie-nugroho&show_icons=true&theme=synthwave&hide_border=true&count_private=true&border_radius=12&title_color=FFD700&icon_color=FFD700" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=agie-nugroho&show_icons=true&theme=synthwave&hide_border=true&count_private=true&border_radius=12&title_color=FFD700&icon_color=FFD700" />
 <img height="165" src="https://github-readme-streak-stats.demolab.com/?user=agie-nugroho&theme=synthwave&hide_border=true&border_radius=12&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agie-nugroho&layout=compact&theme=synthwave&hide_border=true&border_radius=12&title_color=FFD700&langs_count=8" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=agie-nugroho&layout=compact&theme=synthwave&hide_border=true&border_radius=12&title_color=FFD700&langs_count=8" />
 
 </div>
 
-> **Kalau card di atas kadang muncul "broken image":** itu karena `github-readme-stats.vercel.app` adalah instance publik gratisan yang sering kena rate limit / overload. Bukan masalah dari kode. Coba refresh / tunggu beberapa menit, atau deploy instance sendiri via [repo github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) untuk fix permanen.
+> **Kalau card di atas kadang muncul "broken image":** itu karena `github-stats-extended.vercel.app` adalah instance publik gratisan yang sesekali bisa kena rate limit / overload. Bukan masalah dari kode. Coba refresh / tunggu beberapa menit. Kalau mau fix permanen, bisa self-host lewat [github-readme-stats-action](https://github.com/stats-organization/github-readme-stats-action) (generate SVG otomatis via GitHub Actions, disimpan di repo kamu sendiri, jadi ga tergantung server publik sama sekali).
 
 ---
 
