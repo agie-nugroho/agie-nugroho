@@ -14,11 +14,11 @@
 
 </div>
 
-
 <div align="center">
-<img hight="300" width="500" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img width="500" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
-</br>
+
+<br>
 
 ## 👨‍💻 About Me
 
@@ -63,7 +63,7 @@ I'm always open to learning new technologies and collaborating on impactful proj
 
 **📊 &nbsp;Data Analytics & Data Science**
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=python,r,matlab&theme=dark&perline=3" />
 
 <br>
 
@@ -82,18 +82,18 @@ I'm always open to learning new technologies and collaborating on impactful proj
 
 **🌐 &nbsp;Web Development**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs&theme=dark&perline=6" />
 
 <br><br>
 
 **⚙ &nbsp;Programming & Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,mysql&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,mysql,java,cpp,androidstudio&theme=dark&perline=9" />
 
 <br>
 
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=0F2027" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logoColor=white&labelColor=0F2027" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0F2027" />
 
 </div>
 
@@ -101,13 +101,25 @@ I'm always open to learning new technologies and collaborating on impactful proj
 
 ## 📈 GitHub Stats
 
-## 📊 GitHub Analytics
-
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=agie-nugroho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=agie-nugroho&show_icons=true&theme=synthwave&hide_border=true&count_private=true&border_radius=12&title_color=FFD700&icon_color=FFD700" />
+<img height="165" src="https://github-readme-streak-stats.demolab.com/?user=agie-nugroho&theme=synthwave&hide_border=true&border_radius=12&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" />
 
+<br>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agie-nugroho&layout=compact&theme=synthwave&hide_border=true&border_radius=12&title_color=FFD700&langs_count=8" />
+
+</div>
+
+> ⚠️ Ganti `agie-nugroho` di semua link di atas (stats, streak, top-langs) dengan username GitHub kamu sendiri.
+>
+> **Kalau card di atas kadang muncul "broken image":** itu karena `github-readme-stats.vercel.app` adalah instance publik gratisan yang sering kena rate limit / overload karena dipakai jutaan profile GitHub. Ini bukan masalah dari kode kamu. Solusinya:
+> 1. **Coba refresh / tunggu beberapa menit** — biasanya balik normal sendiri.
+> 2. **Fix permanen (disarankan):** deploy instance kamu sendiri secara gratis via tombol "Deploy to Vercel" di [repo github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) — nanti kamu ganti domain `github-readme-stats.vercel.app` jadi domain vercel punya kamu sendiri, jadi ga rebutan kuota sama orang lain.
+> 3. Kalau males self-host, cukup pastikan jumlah card ga terlalu banyak ditumpuk (ini udah aku kurangin, trophy widget aku hapus karena dia yang paling sering rusak).
+
+---
 
 ## 🌱 Currently Learning
 
@@ -143,7 +155,7 @@ I'm always open to learning new technologies and collaborating on impactful proj
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Xx-Ashutosh-xX&style=for-the-badge&color=FFD700&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=agie-nugroho&style=for-the-badge&color=FFD700&label=PROFILE+VIEWS" />
 
 <br>
 
