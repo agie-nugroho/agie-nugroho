@@ -25,7 +25,8 @@
 >
 > I enjoy transforming raw data into meaningful insights through statistics, programming, and visualization. Besides working with data, I also have experience in **Full Stack Web Development** and enjoy building practical applications.
 
-<table>
+<div aligm = "center">
+  <table>
 <tr>
 <td width="50%" valign="top">
 
@@ -45,6 +46,8 @@
 </td>
 </tr>
 </table>
+</div>
+
 
 I'm always open to learning new technologies and collaborating on impactful projects. 🚀
 
@@ -122,8 +125,6 @@ I'm always open to learning new technologies and collaborating on impactful proj
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=agie-nugroho&layout=compact&theme=synthwave&hide_border=true&border_radius=12&title_color=FFD700&langs_count=8" />
 
 </div>
-
-> **Kalau card di atas kadang muncul "broken image":** itu karena `github-stats-extended.vercel.app` adalah instance publik gratisan yang sesekali bisa kena rate limit / overload. Bukan masalah dari kode. Coba refresh / tunggu beberapa menit. Kalau mau fix permanen, bisa self-host lewat [github-readme-stats-action](https://github.com/stats-organization/github-readme-stats-action) (generate SVG otomatis via GitHub Actions, disimpan di repo kamu sendiri, jadi ga tergantung server publik sama sekali).
 
 ---
 
