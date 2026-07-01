@@ -102,26 +102,11 @@ I'm always open to learning new technologies and collaborating on impactful proj
 ## 📈 GitHub Stats
 
 <div align="center">
-
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&show_icons=true&theme=synthwave&hide_border=true&count_private=true&border_radius=12&title_color=FFD700&icon_color=FFD700" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Xx-Ashutosh-xX&theme=synthwave&hide_border=true&border_radius=12&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" />
-
+<img height="165" src="https://github-readme-streak-stats.demolab.com/?user=Xx-Ashutosh-xX&theme=synthwave&hide_border=true&border_radius=12&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" />
 <br>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xx-Ashutosh-xX&layout=compact&theme=synthwave&hide_border=true&border_radius=12&title_color=FFD700&langs_count=8" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Xx-Ashutosh-xX&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
 </div>
-
-> ⚠️ Ganti `Xx-Ashutosh-xX` di semua link di atas (stats, streak, top-langs, trophy, snake) dengan username GitHub kamu sendiri biar semuanya nunjukin data kamu.
-> Khusus **snake animation**, itu butuh setup GitHub Action tambahan di repo kamu — kalau mau, bilang aja nanti aku bikinin workflow-nya sekalian.
 
 ---
 
