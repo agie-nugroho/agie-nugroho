@@ -1,50 +1,151 @@
-
-<h1 align="center"> Hi There, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
-<div align="center">
-<img hight="300" width="500" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
-</div>
-</br>
-
-<samp>I am Agie Nugroho, people call me Agie, a recent Mathematics undergraduate from Jenderal Soedirman University. I am a tech enthusiast & a Math Enjoyer. Always love to learn a new things of tech and math and also open to collaborating on great ideas. Feel free to connect with me here:
-</samp>
+<h1 align="center">
+  Hi There, <developers/>! 👋
+</h1>
 
 <div align="center">
-  
-  [![Linkedin Badge](https://img.shields.io/badge/-agienugroho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agie-nugroho-4b0866337/)](https://www.linkedin.com/in/agie-nugroho-4b0866337/)
-  [![Instagram Badge](https://img.shields.io/badge/-agienugroho-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/agienugroho/)](https://www.instagram.com/agienugroho/)
-  [![Gmail Badge](https://img.shields.io/badge/-agienugroho1671@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agienugroho1671@gmail.com)](mailto:agienugroho1671@gmail.com)
+<img width="500" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
 
-## 🙋‍♂️ Technologies & Tools
+<br>
+
+## 👨‍💻 About Me
+
+Hi! I'm **Agie Nugroho**, a Mathematics graduate from **Jenderal Soedirman University** with a strong interest in **Data Analytics, Data Science, Applied Mathematics, and Software Development**.
+
+I enjoy transforming raw data into meaningful insights through statistics, programming, and visualization. Besides working with data, I also have experience in **Full Stack Web Development** and enjoy building practical applications.
+
+Currently, I'm expanding my knowledge in:
+
+- 📊 Data Analytics
+- 🤖 Data Science & Machine Learning
+- 📈 Mathematical Modeling
+- 🗄 SQL & Database
+- 📉 Data Visualization
+- 🌐 Full Stack Web Development
+
+I'm always open to learning new technologies and collaborating on impactful projects.
+
+---
+
+## 📫 Connect with Me
+
 <div align="center">
-  
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
-  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-  ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
-  
-  ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
-  ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-  ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
-  ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Agie%20Nugroho-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/agie-nugroho-4b0866337/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-agienugroho-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agienugroho/)
+
+[![Email](https://img.shields.io/badge/Gmail-agienugroho1671@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agienugroho1671@gmail.com)
 
 </div>
- 
-## Things I love to learn
-<div align="center">
-  <p>  
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+
+---
+
+# 💻 Tech Stack
+
+### 📊 Data Analytics & Data Science
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy">
+
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square">
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square">
+
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy">
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql">
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau">
+
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel">
+
+<img src="https://img.shields.io/badge/MATLAB-orange?style=flat-square">
+
+<img src="https://img.shields.io/badge/Minitab-00599C?style=flat-square">
+
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r">
+
 </p>
 
-</div>
+---
+
+### 🌐 Web Development
+
+<p>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3">
+
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+
+</p>
+
+---
+
+### ⚙ Programming & Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github">
+
+<img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab">
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code">
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square">
+
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus">
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android">
+
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab">
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter">
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Data Analytics
+- Data Science
+- Machine Learning
+- SQL Optimization
+- Tableau Dashboard
+- Power BI
+- Mathematical Modeling
+- Statistical Analysis
+
+---
+
+# 📌 Featured Projects
+
+- 📊 Healthcare Workforce Data Analysis
+- 📈 Exploratory Data Analysis Projects
+- 🤖 SEAR Mathematical Model for TikTok Addiction Dynamics
+- 🍽 NutriKidz AI Recommendation System
+- 🌐 Full Stack Web Applications
+
+---
+
+> *"Turning data into insights and mathematics into real-world solutions."*
