@@ -1,6 +1,12 @@
-<h1 align="center">
-  Hi There, <developers/>! 👋
-</h1>
+<h1 align="center">Hi There, I'm Agie Nugroho 👋</h1>
+
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Mathematics+Graduate+%40+Unsoed;Data+Analyst+in+the+Making;Turning+Numbers+into+Insights;Math+%2B+Data+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+</a>
+
+</div>
 
 <div align="center">
 <img width="500" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
@@ -31,121 +37,102 @@ I'm always open to learning new technologies and collaborating on impactful proj
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Agie%20Nugroho-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/agie-nugroho-4b0866337/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-agienugroho-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agienugroho/)
-
-[![Email](https://img.shields.io/badge/Gmail-agienugroho1671@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agienugroho1671@gmail.com)
+<a href="https://www.linkedin.com/in/agie-nugroho-4b0866337/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/agienugroho/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:agienugroho1671@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-### 📊 Data Analytics & Data Science
+**📊 Data Analytics & Data Science**
 
-<p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,r,matlab" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Minitab-7A0019?style=for-the-badge" />
+</p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+**🌐 Web Development**
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs" />
+</p>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy">
+**⚙ Programming & Tools**
 
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square">
-
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square">
-
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy">
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql">
-
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau">
-
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel">
-
-<img src="https://img.shields.io/badge/MATLAB-orange?style=flat-square">
-
-<img src="https://img.shields.io/badge/Minitab-00599C?style=flat-square">
-
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r">
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,mysql,java,cpp,androidstudio" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ---
 
-### 🌐 Web Development
+## 📈 GitHub Stats
 
-<p>
+<div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Xx-Ashutosh-xX&theme=tokyonight&hide_border=true" />
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3">
+<br>
 
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xx-Ashutosh-xX&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+</div>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js">
+> ⚠️ Ganti `Xx-Ashutosh-xX` di atas dengan username GitHub kamu sendiri biar statsnya nunjukin data kamu.
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+---
 
+## 🌱 Currently Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Data_Analytics-2E9EF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Science-FF6F61?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine_Learning-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL_Optimization-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau_Dashboard-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Mathematical_Modeling-2E9EF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Statistical_Analysis-FF6F61?style=for-the-badge" />
 </p>
 
 ---
 
-### ⚙ Programming & Tools
+## 📌 Featured Projects
 
-<p>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github">
-
-<img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab">
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code">
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman">
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square">
-
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus">
-
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android">
-
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab">
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter">
-
-</p>
+- 📊 **Healthcare Workforce Data Analysis** — exploratory analysis on healthcare workforce datasets
+- 📈 **Exploratory Data Analysis Projects** — assorted EDA case studies
+- 🤖 **SEAR Mathematical Model for TikTok Addiction Dynamics** — undergraduate thesis: compartmental ODE model (Susceptible–Exposed–Addicted–Recovery) with Next Generation Matrix (R₀), Routh–Hurwitz stability analysis, and RK4 simulation
+- 🍽 **NutriKidz AI Recommendation System** — nutrition recommendation system
+- 🌐 **Full Stack Web Applications** — assorted web apps
 
 ---
 
-# 🌱 Currently Learning
+<div align="center">
 
-- Data Analytics
-- Data Science
-- Machine Learning
-- SQL Optimization
-- Tableau Dashboard
-- Power BI
-- Mathematical Modeling
-- Statistical Analysis
+*"Turning data into insights and mathematics into real-world solutions."*
 
----
+<img src="https://komarev.com/ghpvc/?username=Xx-Ashutosh-xX&style=for-the-badge&color=2E9EF7" />
 
-# 📌 Featured Projects
-
-- 📊 Healthcare Workforce Data Analysis
-- 📈 Exploratory Data Analysis Projects
-- 🤖 SEAR Mathematical Model for TikTok Addiction Dynamics
-- 🍽 NutriKidz AI Recommendation System
-- 🌐 Full Stack Web Applications
-
----
-
-> *"Turning data into insights and mathematics into real-world solutions."*
+</div>
