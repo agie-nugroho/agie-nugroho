@@ -21,32 +21,22 @@
 
 ## 👨‍💻 About Me
 
-> Hi! I'm **Agie Nugroho**, a Mathematics graduate from **Jenderal Soedirman University** with a strong interest in **Data Analytics, Data Science, Applied Mathematics, and Software Development**.
->
-> I enjoy transforming raw data into meaningful insights through statistics, programming, and visualization. Besides working with data, I also have experience in **Full Stack Web Development** and enjoy building practical applications.
+Hi! I'm **Agie Nugroho**, a Mathematics graduate from **Jenderal Soedirman University** with a strong interest in **Data Analytics, Data Science, Applied Mathematics, and Software Development**.
 
-<div align = "center">
-  <table>
-<tr>
-<td width="50%" valign="top">
+I enjoy transforming raw data into meaningful insights through statistics, programming, and visualization. Besides working with data, I also have experience in **Full Stack Web Development** and enjoy building practical applications.
 
-**🔭 Currently expanding my knowledge in**
+Currently, I'm expanding my knowledge in:
+
 - 📊 Data Analytics
 - 🤖 Data Science & Machine Learning
 - 📈 Mathematical Modeling
-
-</td>
-<td width="50%" valign="top">
-
-**🎯 Also diving into**
 - 🗄 SQL & Database
 - 📉 Data Visualization
 - 🌐 Full Stack Web Development
 
-</td>
-</tr>
-</table>
-</div>
+I'm always open to learning new technologies and collaborating on impactful projects.
+
+---
 
 
 I'm always open to learning new technologies and collaborating on impactful projects. 🚀
