@@ -63,7 +63,7 @@ I'm always open to learning new technologies and collaborating on impactful proj
 
 **📊 &nbsp;Data Analytics & Data Science**
 
-<img src="https://skillicons.dev/icons?i=python,r,matlab&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark&perline=3" />
 
 <br>
 
