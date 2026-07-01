@@ -25,7 +25,8 @@
 >
 > I enjoy transforming raw data into meaningful insights through statistics, programming, and visualization. Besides working with data, I also have experience in **Full Stack Web Development** and enjoy building practical applications.
 
-<table>
+<div align = "center">
+  <table>
 <tr>
 <td width="50%" valign="top">
 
@@ -45,6 +46,8 @@
 </td>
 </tr>
 </table>
+</div>
+
 
 I'm always open to learning new technologies and collaborating on impactful projects. 🚀
 
